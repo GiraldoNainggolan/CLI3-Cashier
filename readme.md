@@ -3,7 +3,7 @@ Hey, thanks for using the awesome-readme-template template.
 If you have any enhancements, then fork this project and create a pull request
 or just open an issue with the label "enhancement".
 
-Don't forget to give this project a star for additional support ;)
+Don't forget to give this project a star for additional support ;
 Maybe you can mention me or this repo in the acknowledgements too
 -->
 <div align="center">
@@ -18,34 +18,34 @@ Maybe you can mention me or this repo in the acknowledgements too
   
 <!-- Badges -->
 <p>
-  <a href="https://github.com/GiraldoNainggolan/KasirV1/graphs/contributors">
+  <a href="https://github.com/GiraldoNainggolan/CLI3-Cashier/graphs/contributors">
     <img src="https://img.shields.io/github/contributors/GiraldoNainggolan/KasirV1" alt="contributors" />
   </a>
   <a href="">
-    <img src="https://img.shields.io/github/last-commit/GiraldoNainggolan/KasirV1" alt="last update" />
+    <img src="https://img.shields.io/github/last-commit/GiraldoNainggolan/CLI3-Cashier" alt="last update" />
   </a>
-  <a href="https://github.com/GiraldoNainggolan/KasirV1/network/members">
-    <img src="https://img.shields.io/github/forks/GiraldoNainggolan/KasirV1" alt="forks" />
+  <a href="https://github.com/GiraldoNainggolan/CLI3-Cashier/network/members">
+    <img src="https://img.shields.io/github/forks/GiraldoNainggolan/CLI3-Cashier" alt="forks" />
   </a>
-  <a href="https://github.com/GiraldoNainggolan/KasirV1/stargazers">
-    <img src="https://img.shields.io/github/stars/GiraldoNainggolan/KasirV1" alt="stars" />
+  <a href="https://github.com/GiraldoNainggolan/CLI3-Cashier/stargazers">
+    <img src="https://img.shields.io/github/stars/GiraldoNainggolan/CLI3-Cashier" alt="stars" />
   </a>
-  <a href="https://github.com/GiraldoNainggolan/KasirV1/issues/">
-    <img src="https://img.shields.io/github/issues/GiraldoNainggolan/KasirV1" alt="open issues" />
+  <a href="https://github.com/GiraldoNainggolan/CLI3-Cashier/issues/">
+    <img src="https://img.shields.io/github/issues/GiraldoNainggolan/CLI3-Cashier" alt="open issues" />
   </a>
-  <a href="https://github.com/GiraldoNainggolan/KasirV1/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/GiraldoNainggolan/KasirV1.svg" alt="license" />
+  <a href="https://github.com/GiraldoNainggolan/CLI3-Cashier/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/GiraldoNainggolan/CLI3-Cashier.svg" alt="license" />
   </a>
 </p>
    
 <h4>
-    <a href="https://github.com/GiraldoNainggolan/KasirV1">View Demo</a>
+    <a href="https://github.com/GiraldoNainggolan/CLI3-Cashier">View Demo</a>
   <span> · </span>
-    <a href="https://github.com/GiraldoNainggolan/KasirV1">Documentation</a>
+    <a href="https://github.com/GiraldoNainggolan/CLI3-Cashier">Documentation</a>
   <span> · </span>
-    <a href="https://github.com/GiraldoNainggolan/KasirV1/issues/">Report Bug</a>
+    <a href="https://github.com/GiraldoNainggolan/CLI3-Cashier/issues/">Report Bug</a>
   <span> · </span>
-    <a href="https://github.com/GiraldoNainggolan/KasirV1/issues/">Request Feature</a>
+    <a href="https://github.com/GiraldoNainggolan/CLI3-Cashier/issues/">Request Feature</a>
   </h4>
 </div>
 
@@ -184,7 +184,7 @@ To run tests, run the following command
 Clone the project
 
 ```bash
-  git clone https://github.com/GiraldoNainggolan/KasirV1.git
+  git clone https://github.com/GiraldoNainggolan/CLI3-Cashier.git
 ```
 
 ```bash
@@ -204,7 +204,7 @@ passsword: admin
 
 ## :wave: Contributing
 
-<a href="https://github.com/GiraldoNainggolan/KasirV1/graphs/contributors">
+<a href="https://github.com/GiraldoNainggolan/CLI3-Cashier/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Louis3797/awesome-readme-template" />
 </a>
 
@@ -216,7 +216,7 @@ See `contributing.md` for ways to get started.
 
 ### :scroll: Code of Conduct
 
-Please read the [Code of Conduct](https://github.com/GiraldoNainggolan/KasirV1/blob/main/readme.md)
+Please read the [Code of Conduct](https://github.com/GiraldoNainggolan/CLI3-Cashier/blob/main/readme.md)
 
 <!-- FAQ -->
 
@@ -242,7 +242,7 @@ Distributed under the no License. See LICENSE.txt for more information.
 
 Your Name - [@twitter_handle](https://x.com/GolanUwaDo) - giraldonainggolan@gmail.com
 
-Project Link: [https://github.com/GiraldoNainggolan/KasirV1](https://github.com/GiraldoNainggolan/KasirV1/tree/main)
+Project Link: [https://github.com/GiraldoNainggolan/CLI3-Cashier](https://github.com/GiraldoNainggolan/CLI3-Cashier/tree/main)
 
 <!-- Acknowledgments -->
 
